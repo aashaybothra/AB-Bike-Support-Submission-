@@ -3,6 +3,11 @@
 An intelligent, hands-free voice-to-voice Voice RAG application designed specifically for field mechanics and motorcycle operators. The system accepts messy voice inputs in local code-mixed dialects, standardizes queries, searches isolated vector manual indices, applies strict grounding guardrails, and reads out detailed technical specifications with automated streaming chunk workarounds.
 
 ---
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/f6563494-15d9-4ce7-b513-073c830a540f" />
+
+
+
+
 
 ## 🚀 Live Sandbox Validation Cases
 
