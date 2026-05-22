@@ -53,7 +53,7 @@ The assistant acts as a zero-hallucination data mirror. Below are two verified l
    * **Owner Manual Store:** Contains operator-level troubleshooting guides, fluid limits, and basic settings.
    * **Service Manual Store:** Contains mechanical torque parameters, circuit limits, and error diagnostics.
 6. **Prompt Orchestration & Inference:** Feeds the formatted text variables into a strict grounding layout executed via **Sarvam's massive Foundational 105B Parameter LLM**.
-7. **Synthesis Workaround Pipeline:** Text blocks are mirrored in the UI, and a duplicate data stream targets a custom chunking **Sarvam TTS** backend component running the `meera` voice profile.
+7. **Synthesis Workaround Pipeline:** Text blocks are mirrored in the UI, and a duplicate data stream targets a custom chunking **Sarvam TTS** backend component running the `anushka` voice profile.
 
 ---
 
